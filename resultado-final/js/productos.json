@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Nike SportsWear Swoosh",
+        "imagen": "./img/abrigos/nikeSportswearSwoosh.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 179.999
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Nike SportSwear Trend",
+        "imagen": "./img/abrigos/nikeSportswarTrend.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 180.249
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Nike Tech Fleece",
+        "imagen": "./img/abrigos/nikeTechFleece.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 197.999
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Nike WindRunner",
+        "imagen": "./img/abrigos/nikeWindrunner.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 144.999
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Nike SportsWear",
+        "imagen": "./img/abrigos/nikeSportswear.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 209.999
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Chelsea FC visitante 2023/24 Stadium",
+        "imagen": "./img/camisetas/chelseaFC.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 74.999
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Jordan Flight MVP",
+        "imagen": "./img/camisetas/jordanFlightMvp.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 51.499
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Lebron James Los Angeles Lakers City Edition 2023/24",
+        "imagen": "./img/camisetas/lebronJLAL23.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 149.999
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Kevin Durant Phoenix Suns City Edition 2023/24",
+        "imagen": "./img/camisetas/kevinDurantphx.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 149.999
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "San Lorenzo Pre-Calentamiento 2024 Stadium",
+        "imagen": "./img/camisetas/sanLorenzoPre.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 65.499
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Jordan Flight Essentials",
+        "imagen": "./img/camisetas/jordanFlightEssentials.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 51.499
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Jordan Flight MVP",
+        "imagen": "./img/camisetas/jordanFlightMvp2.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 51.499
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Jordan DriFIT Sport",
+        "imagen": "./img/camisetas/jordanDriFIT.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 81.999
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Jordan 23 Engineered",
+        "imagen": "./img/pantalones/jordan23E.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 98.999
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Nike Club Fleece",
+        "imagen": "./img/pantalones/nikeClubFleece.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 86.399
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Paris SaintGermain localvisitante 2023/24 Stadium",
+        "imagen": "./img/pantalones/parisSaintG.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 54.999
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Jordan Flight MVP",
+        "imagen": "./img/pantalones/jordanFlightMvp.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Jordan DriFIT Sport",
+        "imagen": "./img/pantalones/jordanDriFITs.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 81.999
+    }
+]
