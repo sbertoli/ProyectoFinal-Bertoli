@@ -92,7 +92,7 @@
     {
         "id": "camiseta-05",
         "titulo": "San Lorenzo Pre-Calentamiento 2024 Stadium",
-        "imagen": "./img/camisetas/sanLorenzoPre.webp",
+        "imagen": "./img/camisetas/kevinDurantPhx.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
