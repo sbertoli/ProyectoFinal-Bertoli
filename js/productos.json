@@ -82,7 +82,7 @@
     {
         "id": "camiseta-04",
         "titulo": "Kevin Durant Phoenix Suns City Edition 2023/24",
-        "imagen": "./img/camisetas/kevinDurantPhx.webp",
+        "imagen": "./img/camisetas/sanLorenzoPre.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
