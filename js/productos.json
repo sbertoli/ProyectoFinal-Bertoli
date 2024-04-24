@@ -87,17 +87,17 @@
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 149.999
+        "precio": 65.499
     },
     {
         "id": "camiseta-05",
-        "titulo": "Kevin Durant Phoenix Suns City Edition 2023/24",
-        "imagen": "./img/camisetas/kevinDurantPhx.webp",
+        "titulo": "Nike SB",
+        "imagen": "./img/camisetas/nikeSb.webp",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 65.499
+        "precio": 63.999
     },
     {
         "id": "camiseta-06",
